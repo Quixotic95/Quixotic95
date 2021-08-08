@@ -1,7 +1,7 @@
 <h1 align="center">Hello World! I'm A. Emre OĞUZ</h1>
 <h3 align="center">Software Developer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=quixotic95&label=Profile%20Views&color=9c0000&style=flat" alt="quixotic95" /> </p>
+<p align="center"> <img src="https://img.shields.io/github/followers/Quixotic95?style=social" alt="quixotic95" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
