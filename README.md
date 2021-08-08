@@ -12,7 +12,7 @@
 <hr>
 
 <h3 align="left">Languages / Technologies / Tools:</h3>
-<p align="left">
+<p align="center">
   
 ![Java](https://img.shields.io/badge/-JAVA-007396?style=for-the-badge&logo=java&logoWidth=85&logoColor=white)
 ![Spring](https://img.shields.io/badge/-SPRING-6DB33F?style=for-the-badge&logo=spring&logoWidth=65&logoColor=white)
@@ -21,7 +21,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoWidth=85&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoWidth=95&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoWidth=35&logoColor=white)
-![Node.js](https://img.shields.io/badge/-NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoWidth=65&logoColor=white)
+![Node.js](https://img.shields.io/badge/-NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoWidth=60&logoColor=white)
 ![Express](https://img.shields.io/badge/-EXPRESS-000000?style=for-the-badge&logo=express&logoWidth=60&logoColor=white)
 ![Pug](https://img.shields.io/badge/-PUG-A86454?style=for-the-badge&logo=pug&logoWidth=95&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoWidth=95&logoColor=white)
